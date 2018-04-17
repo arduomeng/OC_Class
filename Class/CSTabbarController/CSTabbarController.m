@@ -158,7 +158,7 @@
         return;
     }
     
-    //取出对应的label
+    //取出对应的label 
     CSLabel *leftLabel = self.topView.subviews[leftIndex];
     CSLabel *rightLabel = self.topView.subviews[rightIndex];
     
